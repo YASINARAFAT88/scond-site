@@ -64,13 +64,56 @@ p{
     width: 50%;
     padding: 50px;
     margin: 30px;
+    
 }
 .side-ho{
     padding-left: 70px;
-    padding-right: 100%;
+    padding-right: 25%;
     background-image: url(img/my-bg.png);
+    
 }
 .side-ho p{
     color: wheat;
     font-weight: 700;
+}
+
+h2{
+    color: purple;
+}
+
+.helf{
+    display: flex;
+    margin-left: 90px;
+    padding: 40px;
+    
+}
+.part1{
+    width: 50%;
+    margin-right: 20px;
+    padding-left: 20px;
+    box-shadow: 3px 3px red, -1em 0 .4em olive;
+    border-left: 6px solid purple;
+    border-radius: 6px;
+}
+.part2{
+    width: 50%;
+    margin-left: 20px;
+    padding-left: 20px;
+    box-shadow: 3px 3px red, -1em 0 .4em olive;
+    border-left: 6px solid purple;
+    border-radius: 6px;
+
+}
+.weight{
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.box{
+    
+}
+.copy{
+    text-align: center;
+    color: gray;
+    margin-left: 45%;
+    font-weight: 800;
 }
