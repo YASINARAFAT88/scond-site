@@ -1,5 +1,45 @@
 body{
     font-family: 'Bitter', serif;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.conteiner{
+    display: flex;
+    padding: 50px;
+    padding-bottom: 30px;
+    margin-left: 30px;
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+h1{
+    font-size: 40px;
+}
+.img-size{
+    width: 550px;
+}
+.helf-width{
+    width: 50%;
+}
+.color-orange{
+    color: red;
+    font-weight: 800;
+    font-size: 30px;
+}
+.orange{
+    color: orange;
+}
+
+p{
+    text-align:justify;
+    width: 450px;
+}
+.decoration{
+    text-decoration: none;
+    padding: 10px;
+    background-color: seagreen;
+    color: seashell;
+    border-radius: 5px;
+
 }
